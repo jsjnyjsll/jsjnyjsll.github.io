@@ -3,6 +3,11 @@
 *.txt
 *.log
 
+deprecated/*
+Batch_*
+dfout.csv
+ABX_*.csv
+note.md
 
 # 0000000109.wav
 # 0000000203.wav
